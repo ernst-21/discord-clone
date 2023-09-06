@@ -1,5 +1,9 @@
 const Authlayout = ({ children }: { children: React.ReactNode }) => {
-	return <div className='bg-red-500 h-full'>{children}</div>;
+	return (
+		<div className='h-full flex w-full items-center justify-center'>
+			{children}
+		</div>
+	);
 };
 
 export default Authlayout;
