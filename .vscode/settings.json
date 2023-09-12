@@ -2,5 +2,7 @@
 	"editor.fontFamily": "Hack, 'Fira Code',  'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontSize": 12,
 	"workbench.colorTheme": "Tokyo Night Storm",
-	"workbench.preferredDarkColorTheme": "Tokyo Night Storm"
+	"workbench.preferredDarkColorTheme": "Tokyo Night Storm",
+	"dotenv.enableSecretpeeking": true,
+	"dotenv.enableAutocloaking": false
 }
