@@ -4,5 +4,11 @@
 	"workbench.colorTheme": "Tokyo Night Storm",
 	"workbench.preferredDarkColorTheme": "Tokyo Night Storm",
 	"dotenv.enableSecretpeeking": true,
-	"dotenv.enableAutocloaking": false
+	"dotenv.enableAutocloaking": false,
+	"editor.wordWrap": "on",
+	"tailwind-fold.showTailwindImage": true,
+	"tailwind-fold.foldStyle": "ALL",
+	"tailwind-fold.foldLengthThreshold": 0,
+	"tailwind-fold.unfoldIfLineSelected": false,
+	"tailwind-fold.autoFold": false
 }
