@@ -1,11 +1,11 @@
 {
 	"editor.fontFamily": "Hack, 'Fira Code',  'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
-	"editor.fontSize": 12,
+	"editor.fontSize": 13,
 	"workbench.colorTheme": "Tokyo Night Storm",
 	"workbench.preferredDarkColorTheme": "Tokyo Night Storm",
 	"dotenv.enableSecretpeeking": true,
 	"dotenv.enableAutocloaking": false,
-	"editor.wordWrap": "on",
+	"editor.wordWrap": "wordWrapColumn",
 	"tailwind-fold.showTailwindImage": true,
 	"tailwind-fold.foldStyle": "ALL",
 	"tailwind-fold.foldLengthThreshold": 0,
