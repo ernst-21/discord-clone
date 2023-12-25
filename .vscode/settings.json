@@ -1,5 +1,5 @@
 {
-	"editor.fontFamily": "MonoLisa, Hack, 'Source Code Pro', 'Fira Code',   'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontFamily": "'Fira Code', Hack,  'Source Code Pro', MonoLisa,  'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontSize": 12,
 	"workbench.colorTheme": "Tokyo Night Storm",
 	"workbench.preferredDarkColorTheme": "Tokyo Night Storm",
